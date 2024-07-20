@@ -1,8 +1,8 @@
-# BlueBuild Template &nbsp; [![build-ublue](https://github.com/blue-build/template/actions/workflows/build.yml/badge.svg)](https://github.com/blue-build/template/actions/workflows/build.yml)
+# FexOS &nbsp; [![build-ublue](https://github.com/stromseng/FexOS/actions/workflows/build.yml/badge.svg)](https://github.com/stromseng/FexOS/actions/workflows/build.yml)
 
-See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
+My custom configuration of [Ublue Aurora](https://getaurora.dev/).
 
-After setup, it is recommended you update this README to describe your custom image.
+If you're interested in creating something similar. See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
 
 ## Installation
 

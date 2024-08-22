@@ -19,6 +19,10 @@ modules:
   - from-file: custom/os-tree.yml
   # Flatpak packages
   - from-file: custom/flatpak.yml
+  # Homebrew install
+  - from-file: custom/brew.yml
+  # Chezmoi setup
+  - from-file: custom/chezmoi.yml
 
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
 
